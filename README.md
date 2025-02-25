@@ -50,4 +50,18 @@ Response :
               },
   ]
 }
+
+```json
+{
+  "code" : 500,
+  "message" : "Terjadi Masalah pada server",
+  "data" : []
+}
+
+```json
+{
+  "code" : 401,
+  "message" : "Unauthorized",
+  "data" : []
+}
  
