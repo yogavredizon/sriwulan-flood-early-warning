@@ -38,7 +38,7 @@ Response :
                 "status" : "Berawan",
                 "hummidity" : 93,
                 "Wind" : 3,
-                "Visibillity" : 11.27"
+                "Visibillity" : 11.27
               },
                             {
                 "date" :"2025-02-25;20:10:10",
@@ -46,7 +46,7 @@ Response :
                 "status" : "Berawan",
                 "hummidity" : 93,
                 "Wind" : 3,
-                "Visibillity" : 11.27"
+                "Visibillity" : 11.27
               },
   ]
 }
