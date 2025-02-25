@@ -2,6 +2,7 @@
 Aplikasi ini digunakan untuk memprediksi banjir rob yang terjadi di Desa Sriwulan, Kabupaten Demak, Jawa Tengah. Semua data diambil dari website resmi [BMKG](https://www.bmkg.go.id/).
 
 > Data akan diambil melalui web scrapping, jika BMKG tidak menyediakan API cuaca dan juga pasang surut air laut.
+
 *List URL untuk web scrapping* :
 
 | Keterangan | URL |
