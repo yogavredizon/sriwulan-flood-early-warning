@@ -25,7 +25,9 @@ Aplikasi ini digunakan untuk memprediksi banjir rob yang terjadi di Desa Sriwula
 1. Mendapatkan daftar cuaca
 > `GET /sriwulan/api/weather'
 
-Response : ```json
+Response : 
+
+```json
 {
   "code" : 200,
   "message" : "Berhasil mengambil data cuaca",
