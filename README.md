@@ -71,4 +71,54 @@ Aplikasi ini digunakan untuk memprediksi banjir rob yang terjadi di Desa Sriwula
   "data" : []
 }
 ```
+
+## 2. Mendapatkan tinggi gelombang
  
+> `GET /sriwulan/api/tides'
+
+**Response** : 
+
+1. Status response sukses
+
+```json
+{
+  "code" : 200,
+  "message" : "Berhasil mengambil data cuaca",
+  "data" : [
+              {
+                "date" :"2025-02-25;19:19:1",
+                "degree" : 25,
+                "status" : "Berawan",
+                "hummidity" : 93,
+                "Wind" : 3,
+                "Visibillity" : 11.27
+              },
+                            {
+                "date" :"2025-02-25;20:10:10",
+                "degree" : 25,
+                "status" : "Berawan",
+                "hummidity" : 93,
+                "Wind" : 3,
+                "Visibillity" : 11.27
+              },
+  ]
+}
+```
+
+**2. Status response gagal**
+
+```json
+{
+  "code" : 500,
+  "message" : "Terjadi Masalah pada server",
+  "data" : []
+}
+````
+
+```json
+{
+  "code" : 401,
+  "message" : "Unauthorized",
+  "data" : []
+}
+```
