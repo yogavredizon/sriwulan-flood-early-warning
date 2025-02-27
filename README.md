@@ -9,7 +9,7 @@ Aplikasi ini digunakan untuk memprediksi banjir rob yang terjadi di Desa Sriwula
 | ----------- | ----------- |
 |Cuaca|[https://www.bmkg.go.id/cuaca/prakiraan-cuaca/33.21.04.2011](https://www.bmkg.go.id/cuaca/prakiraan-cuaca/33.21.04.2011)|
 |Tinggi Gelombang|[https://www.bmkg.go.id/cuaca/maritim/P.K.04](https://www.bmkg.go.id/cuaca/maritim/P.K.04)|
-|Psang Surut Air Laut|[https://www.bmkg.go.id/cuaca/maritim/P.K.04](https://pasut.maritimsemarang.com/?tanggal={tanggal-data-diambil)|
+|Psang Surut Air Laut|[https://pasut.maritimsemarang.com/](https://pasut.maritimsemarang.com/?tanggal={tanggal-data-diambil)|
 
 > *33.21.04.2011* merupakan kode wilayah desa sriwulan
 
